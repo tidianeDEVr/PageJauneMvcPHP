@@ -1,0 +1,13 @@
+{
+    "name": "tidiane/page_jaune",
+    "authors": [{
+        "name": "Cheikh Tidiane Ndiaye",
+        "email": "cheikhtiindiaye@gmail.com"
+    }],
+
+    "autoload": {
+        "psr-4": { "ism\\": "." }
+    },
+
+    "require": {}
+}
